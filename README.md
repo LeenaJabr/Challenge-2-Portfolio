@@ -31,3 +31,21 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
+## When the portfolio loads-- my name, recent photo, and links to sections about me, my work, resume, and how to contact is illustrated.
+
+![Snip 1](https://user-images.githubusercontent.com/107494937/179840744-0acab513-5a7f-47e2-b33a-20b88c72cc07.PNG)
+
+## When one of my links in the navigation is clicked, it corresponds to the correct section.
+
+https://user-images.githubusercontent.com/107494937/179841363-2d530dba-90c6-40ca-994e-4da198515d6b.mp4
+
+## The first application is presented and clickable to the corresponding link. It is under construction until a project takes the place of it.
+
+https://user-images.githubusercontent.com/107494937/179842152-0069f50b-a0d0-4126-8dca-e313763426f0.mp4
+
+## The layout adapts and responds to various screen sizes.
+
+https://user-images.githubusercontent.com/107494937/179842453-60dd1f2c-9bff-418b-8b46-07b6f50d983d.mp4
+
+
+
